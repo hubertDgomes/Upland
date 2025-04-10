@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    --spacing-container: 1135px; 
+    --font-navFont: "Roboto", "sans-serif"; 
+    --font-deFont: "Darker Grotesque", "sans-serif"; 
+    --color-border: #FF6231;
+  }
+  
